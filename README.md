@@ -195,6 +195,7 @@ python main.py
 5. 请遵守YouTube的服务条款和版权规定
 6. 请遵守AI模型提供商的使用条款
 7. python版本需要使用python3
+8. 需要能翻墙，访问youtube
 
 ## 更新日志
 
