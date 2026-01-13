@@ -1,0 +1,20 @@
+# YouTube字幕翻译工具依赖库
+
+# YouTube API访问
+youtube-transcript-api>=0.5.0
+pytube3>=9.6.4
+
+# AI大模型翻译
+openai>=1.0.0
+requests>=2.31.0
+
+# UI界面
+customtkinter>=5.2.1
+
+# 电子书导出
+ebooklib>=0.17.1
+reportlab>=4.0.8
+beautifulsoup4>=4.12.2
+
+# 其他工具库
+python-dotenv>=1.0.0

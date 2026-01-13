@@ -1,0 +1,7 @@
+.trae
+.vscode
+youtube_api/__pycache__
+ui/__pycache__
+translation/__pycache__
+summarization/__pycache__
+export/__pycache__
