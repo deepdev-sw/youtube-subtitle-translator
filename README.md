@@ -82,6 +82,8 @@ python main.py
 
 程序启动后，您将看到如下界面：
 
+![界面演示](assets/ytstt.png)
+
 - **顶部输入区域**：用于输入YouTube频道或播放列表URL
 - **配置区域**：
   - AI模型选择：支持dashscope和qiniu两种模型
